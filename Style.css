@@ -1,11 +1,1 @@
-div.statique {
-    border: 3px solid coral;
-    position: static;
-    padding: 20px;
-    width: 310px;
-}
-    
 
-body {
-    background-color: greenyellow;
-}
